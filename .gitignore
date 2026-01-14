@@ -1,0 +1,8 @@
+# Ignore heavy model files
+*.pt
+*.onnx
+
+# Ignore system files
+__pycache__/
+runs/
+.DS_Store
